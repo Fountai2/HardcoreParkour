@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Timer.js">
+    <Files>
+      <File FileName="Assets\Scripts\LevelSpawnScripts\lvlTimer.js" Line="22" Column="26" />
+      <File FileName="Assets\Scripts\PlayerScripts\playerDeath.js" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\CharMovementController.js" Line="26" Column="22" />
+      <File FileName="Assets\Scripts\LevelSpawnScripts\platformSpawner.js" Line="37" Column="16" />
+      <File FileName="Assets\Scripts\LevelSpawnScripts\platformMove.js" Line="8" Column="116" />
+      <File FileName="Assets\Scripts\LevelSpawnScripts\skyLine.js" Line="12" Column="16" />
+      <File FileName="Assets\Scripts\Menus\MainMenu.js" Line="28" Column="68" />
+      <File FileName="Assets\Scripts\PlayerScripts\jump.js" Line="19" Column="1" />
+      <File FileName="Assets\Scripts\LevelSpawnScripts\BACKGROUND.js" Line="9" Column="43" />
+      <File FileName="Assets\Scripts\Timer.js" Line="10" Column="39" />
+      <File FileName="Assets\Scripts\GUIColor.js" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
